@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "Artikelnummer": "1",
+        "Titel": "VHS The Fox and the Hound",
+        "Bild": "optional",
+        "Beschreibung": "nice Story",
+        "Anzahl": "1",
+        "Benutzerid": "1"
+    }
+   
+]
